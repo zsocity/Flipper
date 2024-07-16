@@ -33,7 +33,7 @@ Find more screenshots [here](screenshots/).
 
 ## Installation
 ```
-git clone https://github.com/t3l3machus/hoaxshell
+git clone https://github.com/zsocity/Flipper
 cd ./hoaxshell
 sudo pip3 install -r requirements.txt
 chmod +x hoaxshell.py
