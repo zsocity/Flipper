@@ -29,7 +29,7 @@ Find more screenshots [here](screenshots/).
 ## Installation
 ```
 git clone https://github.com/zsocity/Flipper
-cd ./hoaxshell
+cd Flipper
 sudo pip3 install -r requirements.txt
 chmod +x hoaxshell.py
 ```
